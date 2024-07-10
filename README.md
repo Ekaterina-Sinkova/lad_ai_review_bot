@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 4. Prepare .xlsx file for testing. Note that it should contain column `review` with texts for analysis
 
-4. Run the test with command 
+4. Run the test with command (put your actual file_path)
 ```
 python model.py --file_path=./data/test.xlsx
 
