@@ -1,6 +1,6 @@
 # AI Review Bot
 
-This project is an AI-powered bot that responds to product reviews using FastAPI, LangChain, and OpenAI. 
+This project is an AI-powered bot that responds to product reviews using OpenAI API. 
 The bot follows specific rules to generate responses based on the nature of the review.
 
 ## Project Structure
